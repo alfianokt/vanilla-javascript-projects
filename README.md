@@ -4,4 +4,5 @@ Collections of my projects using vanilla javascript
 
 ## Projects
 
-- [Vanilla JavaScript Stopwatch](./stopwatch/README.md) - [Demo](./stopwatch)
+- [Stopwatch](./stopwatch/README.md) - [Demo](./stopwatch)
+- [Clock](./clock/README.md) - [Demo](./clock)
